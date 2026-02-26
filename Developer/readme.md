@@ -4,6 +4,8 @@ A responsive API marketplace/landing page built using HTML, Tailwind CSS (CDN), 
 
 This project showcases a modern responsive UI with navigation, API categories, blog articles, and footer sections.
 
+[live at](http://127.0.0.1:5500/Developer/index.html)
+
 ## 📌 Features
 
 ✅ Responsive Navigation Bar
